@@ -1,6 +1,6 @@
 # Spotify-Library-Database v1.0
 
-# About
+## About
 This project was based off of [Codecademy's Design Databases With PostgreSQL Skill Path](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/how-do-i-make-and-populate-my-own-database/modules/designing-a-database-schema-off-platform-project/informationals/off-platform-project-designing-a-database-from-scratch
 ).
 
