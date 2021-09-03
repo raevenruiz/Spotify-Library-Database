@@ -1,0 +1,20 @@
+id,name,genre,music_label,release_date,artist_id
+1000,My World,Pop,The Island Def Jam Music Group,2009-01-01T08:00:00.000Z,1
+1001,CALL ME IF YOU GET LOST,Hip-Hop/Rap,Sony Music Entertainment,2021-06-25T07:00:00.000Z,8
+1002,SATURATION,Hip-Hop/Rap,"QUESTION EVERYTHING, INC. / EMPIRE",2017-06-09T07:00:00.000Z,5
+1003,SATURATION II,Hip-Hop/Rap,"QUESTION EVERYTHING, INC. / EMPIRE",2017-08-25T07:00:00.000Z,5
+1004,SATURATION III,Hip-Hop/Rap,"QUESTION EVERYTHING, INC. / EMPIRE",2017-12-15T08:00:00.000Z,5
+1005,Blonde,R&B,Boys Don't Cry,2016-08-20T07:00:00.000Z,9
+1006,Scary Monsters and Nice Sprites EP,Electronic/Dance,Big Beat Records,2010-12-21T08:00:00.000Z,10
+1007,After Hours,Pop,"UMG Recordings, Inc.",2020-03-20T07:00:00.000Z,2
+1008,Donda,Hip-Hop/Rap,"UMG Recordings, Inc.",2021-08-29T07:00:00.000Z,4
+1009,Freudian,R&B,Golden Child Recordings,2017-08-25T07:00:00.000Z,12
+1010,Luv is Rage 2,Hip-Hop/Rap,Atlantic Recording Corportation,2017-08-25T07:00:00.000Z,11
+1011,7 EP,Pop,Sony Music Entertainment,2019-06-21T07:00:00.000Z,3
+1012,Nurture,Electronic/Dance,Mom+Pop,2021-04-23T07:00:00.000Z,7
+1013,1000 gecs,Pop,100 gecs,2019-05-31T07:00:00.000Z,6
+1014,My Beautiful Dark Twisted Fantasy,Hip-Hop/Rap,"UMG Recordings, Inc.",2010-11-22T08:00:00.000Z,4
+1015,iridesence,Hip-Hop/Rap,Sony Music Entertainment,2018-09-21T07:00:00.000Z,5
+1016,GINGER,Hip-Hop/Rap,Sony Music Entertainment,2019-08-23T07:00:00.000Z,5
+1017,"ROADRUNNER: NEW LIGHT, NEW MACHINE",Hip-Hop/Rap,Sony Music Entertainment,2021-04-09T07:00:00.000Z,5
+1018,Justice,Pop,"UMG Recordings, Inc.",2021-03-19T07:00:00.000Z,1
