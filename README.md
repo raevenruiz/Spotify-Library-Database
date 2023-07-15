@@ -78,7 +78,7 @@ This table represents a podcast series on Spotify.
 - `host`: the host or channel of the podcast
 - `about`: description of the podcast
 - `category`: category of the podcast
-### poscast_episode
+### podcast_episode
 This table represents a podcast episode on Spotify.
 - `id`: unique identifier for every podcast episode in the table. This is the *Primary Key* of this table
 - `title`: title of the episode
